@@ -1,0 +1,8 @@
+echo Starting backup
+echo Making backup backup directory on documents folder
+mkdir ~/Documents/Backup\ Backup
+echo Done
+echo Cloning existing backups
+echo This may take a while if you have lots of cat videos
+cp -r ~/Library/Application Support/MobileSync/Backup/ ~/Documents/Backup\ Backup
+echo Done
