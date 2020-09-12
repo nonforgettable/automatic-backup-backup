@@ -11,4 +11,4 @@ Your Done
 1. Open terminal
 2. type the command below
 ./backup
-3. Everything should be backed up inside your
+3. Everything should be backed up inside your documents folder
